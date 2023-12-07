@@ -1,7 +1,7 @@
 # apprssi
 
 ### Full Ver.:
-Versão com 4 telas semelhantes ao mvp, assume-se que os scans retornarão uma string contendo o resulrado da scan.
+Versão com 4 telas semelhantes ao mvp, assume-se que os scans retornarão uma string contendo o resultado da scan.
 ### Lib Read Ver:
 Versão com apenas o método de exibição da scan.
 ### link para o mvp :
